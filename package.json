@@ -1,0 +1,29 @@
+{
+  "name": "atv2",
+  "version": "1.0.0",
+  "description": "atv2 Formulario",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jr-Agostini/FormularioPPI.git"
+  },
+  "keywords": [
+    "Javascript",
+    "HTTP",
+    "Node"
+  ],
+  "author": "Norberto de Agostini Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jr-Agostini/FormularioPPI/issues"
+  },
+  "homepage": "https://github.com/Jr-Agostini/FormularioPPI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
